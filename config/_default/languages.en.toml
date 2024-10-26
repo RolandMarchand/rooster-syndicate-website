@@ -9,7 +9,7 @@ title = 'Rooster Syndicate'
   isoCode = 'en'
   rtl = false
   dateFormat = '2 January 2006'
-  logo = 'rs_logo_small.webp'
+  logo = 'img/rs_logo_small.webp'
 #   secondaryLogo = 'image'
   description = 'I like to make games!'
   copyright = '© Copyright 2024 Rooster Syndicate. All Rights Reserved.'
@@ -17,7 +17,7 @@ title = 'Rooster Syndicate'
 [params.author]
   name = 'Rooster Syndicate'
 #   email = 'youremail@example.com'
-  image = 'rs_logo.png'
+  image = 'img/rs_logo.png'
 #   imageQuality = 96
   headline = "I like making games, but can't yet stick to any one genre."
 #   bio = ""
