@@ -1,9 +1,8 @@
 ---
-title: "Website is up!"
-description: "Rooster Syndicate's website is now online and available to all users!"
+title: Website is up!
+description: Rooster Syndicate's website is now online and available to all users!
 draft: false
 date: 2024-10-26
-showDate: true
 ---
 
 Hey everyone!

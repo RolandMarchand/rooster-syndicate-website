@@ -17,7 +17,7 @@ title = 'Rooster Syndicate'
 [params.author]
   name = 'Rooster Syndicate'
 #   email = 'youremail@example.com'
-  image = 'img/rs_logo.png'
+  image = 'img/rs_logo.webp'
 #   imageQuality = 96
   headline = "I like making games, but can't yet stick to any one genre."
 #   bio = ""
