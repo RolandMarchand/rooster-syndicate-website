@@ -1,5 +1,6 @@
 ---
-title: "Rooster Syndicate :rooster:"
+title: Rooster Syndicate
+description: Rooster Syndicate is an Indie Dev Studio, currently ran by myself - Malone - as I work with friends and freelancers to make games of all kinds!
 ---
 
 ## Who am I?
